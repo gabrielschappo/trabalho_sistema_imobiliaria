@@ -6,7 +6,7 @@ Este é um projeto para gerenciar clientes, imóveis e contratos de aluguel de u
 
 O diagrama abaixo representa a arquitetura do software, mostrando as principais classes e seus relacionamentos.
 
-![Diagrama de Classes do Sistema de Imobiliária](./diagramas/diagrama_de_classe_sistema_imobiliaria.png)
+![Diagrama de Classes do Sistema de Imobiliária](./diagramas/diagrama_de_classes_sistema_imobiliaria.png)
 
 ## Diagrama de Entidade e Relacionamento (MER)
 
